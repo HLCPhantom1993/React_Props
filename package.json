@@ -1,0 +1,11 @@
+{
+    "name": "react_component_props",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "陈泓霖",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-env": "1.7.0",
+        "babel-preset-react": "6.24.1"
+    }
+}
